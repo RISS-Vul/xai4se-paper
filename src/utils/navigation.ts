@@ -1,7 +1,7 @@
 import { Page, Path } from "../types"
 
 
-export const githubUrl = "https://github.com/RISS-Vul/xai4se-paper"
+export const githubUrl = "https://github.com/RISS-Vul/xai4se-paper/"
 
 // Map between the different Paths and Pages defined in types/navigation
 export const pathMap: { [key in Path]: Page } = {
