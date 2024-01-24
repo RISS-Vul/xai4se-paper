@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/xai4se-paper/static/css/main.d1ac164c.css",
-    "main.js": "/xai4se-paper/static/js/main.47ceed15.js",
-    "index.html": "/xai4se-paper/index.html",
-    "main.d1ac164c.css.map": "/xai4se-paper/static/css/main.d1ac164c.css.map",
-    "main.47ceed15.js.map": "/xai4se-paper/static/js/main.47ceed15.js.map"
+    "main.css": "/xai-papers/static/css/main.d1ac164c.css",
+    "main.js": "/xai-papers/static/js/main.f5ae6e28.js",
+    "index.html": "/xai-papers/index.html",
+    "main.d1ac164c.css.map": "/xai-papers/static/css/main.d1ac164c.css.map",
+    "main.f5ae6e28.js.map": "/xai-papers/static/js/main.f5ae6e28.js.map"
   },
   "entrypoints": [
     "static/css/main.d1ac164c.css",
-    "static/js/main.47ceed15.js"
+    "static/js/main.f5ae6e28.js"
   ]
 }
