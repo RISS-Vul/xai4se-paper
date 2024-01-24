@@ -1,0 +1,11 @@
+Title,url,Year,Venue,Authors,Type of Task,Type,Type of Output
+Understanding Neural Code Intelligence through Program Simplification,https://github.com/UH-SERG/SIVAND,2021,ESEC/FSE,Rabin,Code Understanding,EE,Source Code
+PLANS: Neuro-Symbolic Program Learning from Videos,https://github.com/rdang-nhu/PLANS,2020,NeurIPS,Nhu,Program Synthesis,IM,Rules
+Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code,https://github.com/MattePalte/thinking-like-a-developer,2021,ASE,Paltenghi,Code Summarization,AM,Source Code
+Interpretable Test Case Recommendation based on Knowledge Graph,N/A,2020,QRS,Ke,Test Case-Related,DK,Text
+XCoS: Explainable Code Search Based on Query Scoping and Knowledge Graph,N/A,2023,TOSEM,Wang,Code Search,DK,Visualization
+Explaining Mispredictions of Machine Learning Models using Rule Induction,https://github.com/facebookresearch/mmd,2021,ESEC/FSE,Cito,Debugging,IM,Rules
+Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching,N/A,2021,TOSEM,Zou,Vulnerability Detection,IM,Rules
+Incorporating Signal Awareness in Source Code Modeling: an Application to Vulnerability Detection,N/A,2023,TOSEM,Suneja,Vulnerability Detection,EE,Source Code
+XAI4FL: Enhancing Spectrum-Based Fault Localization with Explainable Artificial Intelligence,https://github.com/soarsmu/XAI4FL,2022,ICPC,Widyasari,Bug/Fault Localization,FA,Source Code
+Explainable AI for Android Malware Detection: Towards Understanding Why the Models Perform So Well?,N/A,2022,ISSRE,Liu,Malware/Anomaly Detection,"DK, FA",Numerical

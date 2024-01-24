@@ -1,0 +1,233 @@
+[
+  {
+    "Title": "Understanding Neural Code Intelligence through Program Simplification",
+    "url": "https://github.com/UH-SERG/SIVAND",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Rabin"
+    ],
+    "Type of Task": [
+      "Code Understanding"
+    ],
+    "Type": [
+      "EE"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "PLANS: Neuro-Symbolic Program Learning from Videos",
+    "url": "https://github.com/rdang-nhu/PLANS",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "NeurIPS"
+    },
+    "Authors": [
+      "Nhu"
+    ],
+    "Type of Task": [
+      "Program Synthesis"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code",
+    "url": "https://github.com/MattePalte/thinking-like-a-developer",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ASE"
+    },
+    "Authors": [
+      "Paltenghi"
+    ],
+    "Type of Task": [
+      "Code Summarization"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Interpretable Test Case Recommendation based on Knowledge Graph",
+    "url": "N/A",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "QRS"
+    },
+    "Authors": [
+      "Ke"
+    ],
+    "Type of Task": [
+      "Test Case-Related"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "XCoS: Explainable Code Search Based on Query Scoping and Knowledge Graph",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "TOSEM"
+    },
+    "Authors": [
+      "Wang"
+    ],
+    "Type of Task": [
+      "Code Search"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Explaining Mispredictions of Machine Learning Models using Rule Induction",
+    "url": "https://github.com/facebookresearch/mmd",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Cito"
+    ],
+    "Type of Task": [
+      "Debugging"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching",
+    "url": "N/A",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "TOSEM"
+    },
+    "Authors": [
+      "Zou"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Incorporating Signal Awareness in Source Code Modeling: an Application to Vulnerability Detection",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "TOSEM"
+    },
+    "Authors": [
+      "Suneja"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "EE"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "XAI4FL: Enhancing Spectrum-Based Fault Localization with Explainable Artificial Intelligence",
+    "url": "https://github.com/soarsmu/XAI4FL",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ICPC"
+    },
+    "Authors": [
+      "Widyasari"
+    ],
+    "Type of Task": [
+      "Bug/Fault Localization"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Explainable AI for Android Malware Detection: Towards Understanding Why the Models Perform So Well?",
+    "url": "N/A",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ISSRE"
+    },
+    "Authors": [
+      "Liu"
+    ],
+    "Type of Task": [
+      "Malware/Anomaly Detection"
+    ],
+    "Type": [
+      "DK",
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  }
+]

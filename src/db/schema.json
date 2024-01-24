@@ -1,0 +1,60 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "Title": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string"
+      },
+      "Year": {
+        "type": "string"
+      },
+      "Venue": {
+        "type": "object",
+        "properties": {
+          "isOld": {"type": "boolean"},
+          "value": {"type": "string"}
+        }
+      },
+      "Authors": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "Type of Task": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": ["Code Understanding","Program Synthesis","Code Summarization","Test Case-Related","Code Search","Debugging","Vulnerability Detection","Bug/Fault Localization","Malware/Anomaly Detection"]
+        }
+      },
+      "Type": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": ["EE","IM","AM","DK","FA"]
+        }
+      },
+      "Type of Output": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": ["Source Code", "Rules", "Text", "Visualization", "Numerical"]
+        }
+      }
+    },
+    "required": [
+      "Title",
+      "Year",
+      "Venue",
+      "Authors",
+      "Type of Task",
+      "Type",
+      "Type of Output"
+    ]
+  }
+}
