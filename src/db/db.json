@@ -229,5 +229,1227 @@
     ],
     "Abstract": "",
     "IsOld": true
+  },
+  {
+    "Title": "An Explanation Method for Models of Code",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "OOPSLA"
+    },
+    "Authors": [
+      "Wang"
+    ],
+    "Type of Task": [
+      "Code Understanding"
+    ],
+    "Type": [
+      "EE"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding",
+    "url": "https://github.com/SmileResearch/GTCN",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "TOSEM"
+    },
+    "Authors": [
+      "Yang"
+    ],
+    "Type of Task": [
+      "Code Understanding"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Benchmarking Causal Study to Interpret Large Language Models for Source Code",
+    "url": "https://github.com/WM-SEMERU/galeras-benchmark",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSME"
+    },
+    "Authors": [
+      "Cardenas"
+    ],
+    "Type of Task": [
+      "Code Understanding"
+    ],
+    "Type": [
+      "OT"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Counterfactual Explanations for Models of Code",
+    "url": "https://github.com/facebookresearch/mmd",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE-SEIP"
+    },
+    "Authors": [
+      "Cito"
+    ],
+    "Type of Task": [
+      "Code Understanding"
+    ],
+    "Type": [
+      "EE"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code",
+    "url": "https://github.com/CGCL-codes/naturalcc",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE"
+    },
+    "Authors": [
+      "Wan"
+    ],
+    "Type of Task": [
+      "Code Understanding"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Explainable Program Synthesis by Localizing Specifications",
+    "url": "https://doi.org/10.5281/zenodo.8331495",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "OOPSLA"
+    },
+    "Authors": [
+      "Nazari"
+    ],
+    "Type of Task": [
+      "Program Synthesis"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning",
+    "url": "https://github.com/ellisk42/ec",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "POPL"
+    },
+    "Authors": [
+      "Ellis"
+    ],
+    "Type of Task": [
+      "Program Synthesis"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study",
+    "url": "https://github.com/CCLink-demo",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Jiang"
+    ],
+    "Type of Task": [
+      "Code Summarization"
+    ],
+    "Type": [
+      "OT",
+      "FA"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Interpretation-based Code Summarization",
+    "url": "https://github.com/gmy2013/Icser",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICPC"
+    },
+    "Authors": [
+      "Geng"
+    ],
+    "Type of Task": [
+      "Code Summarization"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Mate! Are You Really Aware? An Explainability-Guided Testing Framework for Robustness of Malware Detectors",
+    "url": "https://github.com/Immor278/AMM",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Sun"
+    ],
+    "Type of Task": [
+      "Test Case-Related"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Risk-driven Online Testing and Test Case Diversity Analysis for ML-enabled Critical Systems",
+    "url": "https://zenodo.org/records/8344723",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ISSRE"
+    },
+    "Authors": [
+      "Adigun"
+    ],
+    "Type of Task": [
+      "Test Case-Related"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning",
+    "url": "N/A",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE"
+    },
+    "Authors": [
+      "Yu"
+    ],
+    "Type of Task": [
+      "Test Case-Related"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models",
+    "url": "https://github.com/Jirigesi/BGMD_MAPS",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE"
+    },
+    "Authors": [
+      "Gesi"
+    ],
+    "Type of Task": [
+      "Debugging"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "When Life Gives You Oranges: Detecting and Diagnosing Intermittent Job Failures at Mozilla",
+    "url": "http://bit.ly/IntermittentJobs",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Lampel"
+    ],
+    "Type of Task": [
+      "Debugging"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Learning to Locate and Describe Vulnerabilities",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ASE"
+    },
+    "Authors": [
+      "Zhang"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Vulnerability Detection with Fine-Grained Interpretations",
+    "url": "https://github.com/vulnerabilitydetection/VulnerabilityDetectionResearch",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Li"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation",
+    "url": "https://github.com/jacknichao/SVulD",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Ni"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion",
+    "url": "https://github.com/Messi-Q/AMEVulDetector",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "IJCAI"
+    },
+    "Authors": [
+      "Liu"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation",
+    "url": "https://github.com/anonymous-dev904/aspect_generation",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE"
+    },
+    "Authors": [
+      "Sun"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types",
+    "url": "https://github.com/awsm-research/VulExplainer",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Fu"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach",
+    "url": "https://github.com/toolstemp/IAcontract",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ASE"
+    },
+    "Authors": [
+      "Zhang"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Interpreters for GNN-Based Vulnerability Detection: AreWe There Yet?",
+    "url": "https://github.com/CGCL-codes/vdgraph",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ISSTA"
+    },
+    "Authors": [
+      "Hu"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "CoLeFunDa: Explainable Silent Vulnerability Fix Identification",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE"
+    },
+    "Authors": [
+      "Zhou"
+    ],
+    "Type of Task": [
+      "Vulnerability Detection"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems",
+    "url": "https://github.com/NetManAIOps/DejaVu",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Li"
+    ],
+    "Type of Task": [
+      "Bug/Fault Localization"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Why an Android App Is Classified as Malware: Toward Malware Classification Interpretation",
+    "url": "https://github.com/wubozhi/Xmal",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "TOSEM"
+    },
+    "Authors": [
+      "Wu"
+    ],
+    "Type of Task": [
+      "Malware/Anomaly Detection"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Detecting Runtime Exceptions by Deep Code Representation Learning with Attention-Based Graph Neural Networks",
+    "url": "https://drex-drex.github.io/",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "SANER"
+    },
+    "Authors": [
+      "Li"
+    ],
+    "Type of Task": [
+      "Malware/Anomaly Detection"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "An Empirical Investigation of Practical Log Anomaly Detection for Online Service Systems",
+    "url": "N/A",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Zhao"
+    ],
+    "Type of Task": [
+      "Malware/Anomaly Detection"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Understanding machine learning software defect predictions",
+    "url": "N/A",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "ASEJ"
+    },
+    "Authors": [
+      "Esteves"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Balancing the trade-off between accuracy and interpretability in software defect prediction",
+    "url": "N/A",
+    "Year": "2019",
+    "Venue": {
+      "isOld": true,
+      "value": "EMSE"
+    },
+    "Authors": [
+      "Mori"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Interpretability application of the Just-in-Time software defect prediction model",
+    "url": "N/A",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "JSS"
+    },
+    "Authors": [
+      "Zheng"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "PyExplainer: Explaining the Predictions of Just-In-Time Defect Models",
+    "url": "https://github.com/awsm-research/PyExplainer",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ASE"
+    },
+    "Authors": [
+      "Pornprasit"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "An Empirical Study of Model-Agnostic Techniques for Defect Prediction Models",
+    "url": "N/A",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Jiarpakdee"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models ",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "SANER"
+    },
+    "Authors": [
+      "Lee"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Interpretable Software Defect Prediction Incorporating Multiple Rules",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "SANER"
+    },
+    "Authors": [
+      "Yang"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Predicting Defective Lines Using a Model-Agnostic Technique",
+    "url": "N/A",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Wattanakriengkrai"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "SQAPlanner: Generating Data-Informed Software Quality Improvement Plans",
+    "url": "https://github.com/awsm-research/SQAPlanner-implementation",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Rajapaksha"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation",
+    "url": "https://bit.ly/3H7R1aI",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSE"
+    },
+    "Authors": [
+      "Mahbub"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Evaluating the Effectiveness of Local Explanation Methods on Source Code-based Defect Prediction Models",
+    "url": "https://github.com/gyx1997/msr22-defects",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "MSR"
+    },
+    "Authors": [
+      "Gao"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "FA",
+      "OT"
+    ],
+    "Type of Output": [
+      "Source Code"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Dealing with imbalanced data for interpretable defect prediction",
+    "url": "N/A",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "IST"
+    },
+    "Authors": [
+      "Gao"
+    ],
+    "Type of Task": [
+      "Bug/Defect Prediction"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "How Early Participation Determines Long-Term Sustained Activity in GitHub Projects?",
+    "url": "https://zenodo.org/record/8098994",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Xiao"
+    ],
+    "Type of Task": [
+      "OSS Sustainability Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Real-Time Incident Prediction for Online Service Systems",
+    "url": "N/A",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Zhao"
+    ],
+    "Type of Task": [
+      "Incident Prediction"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Ding"
+    ],
+    "Type of Task": [
+      "Root Cause Analysis"
+    ],
+    "Type": [
+      "IM",
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "STYLE-ANALYZER: fixing code style inconsistencies with interpretable unsupervised algorithms",
+    "url": "https://github.com/src-d/lookout",
+    "Year": "2019",
+    "Venue": {
+      "isOld": true,
+      "value": "MSR"
+    },
+    "Authors": [
+      "Markovtsev"
+    ],
+    "Type of Task": [
+      "Program Repair"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "EvaCRC: Evaluating Code Review Comments",
+    "url": "https://zenodo.org/records/8297481",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Yang"
+    ],
+    "Type of Task": [
+      "Code Review"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Detecting and Explaining Self-Admitted Technical Debts with Attention-based Neural Networks",
+    "url": "N/A",
+    "Year": "2020",
+    "Venue": {
+      "isOld": true,
+      "value": "ASE"
+    },
+    "Authors": [
+      "Wang"
+    ],
+    "Type of Task": [
+      "Code Smells"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Local and Global Feature Based Explainable Feature Envy Detection",
+    "url": "N/A",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "COMPSAC"
+    },
+    "Authors": [
+      "Yin"
+    ],
+    "Type of Task": [
+      "Code Smells"
+    ],
+    "Type": [
+      "OT"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability",
+    "url": "N/A",
+    "Year": "2019",
+    "Venue": {
+      "isOld": true,
+      "value": "TOSEM"
+    },
+    "Authors": [
+      "Ren"
+    ],
+    "Type of Task": [
+      "Code Smells"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Automatic Identification of High Impact Bug Report by Test Smells of Textual  Similar Bug Reports",
+    "url": "N/A",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "QRS"
+    },
+    "Authors": [
+      "Ding"
+    ],
+    "Type of Task": [
+      "Bug Report-Related"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Numerical"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Studying Re-opened Bugs in Open Source Software",
+    "url": "N/A",
+    "Year": "2013",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEM"
+    },
+    "Authors": [
+      "Shihab"
+    ],
+    "Type of Task": [
+      "Bug Report-Related"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Rules"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Knowledge Graph based Explainable Question Retrieval for Programming Tasks",
+    "url": "N/A",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "ICSME"
+    },
+    "Authors": [
+      "Liu"
+    ],
+    "Type of Task": [
+      "Mining Software Repositories"
+    ],
+    "Type": [
+      "DK"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "Generalizable and Interpretable Learning for Configuration Extrapolation",
+    "url": "https://github.com/y-ding/gil",
+    "Year": "2021",
+    "Venue": {
+      "isOld": true,
+      "value": "ESEC/FSE"
+    },
+    "Authors": [
+      "Ding"
+    ],
+    "Type of Task": [
+      "Configuration Extrapolation"
+    ],
+    "Type": [
+      "IM"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "GPT2SP: A Transformer-Based Agile Story Point Estimation Approach",
+    "url": "https://github.com/awsm-research/gpt2sp",
+    "Year": "2023",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Fu"
+    ],
+    "Type of Task": [
+      "Effort/Cost Estimation"
+    ],
+    "Type": [
+      "FA"
+    ],
+    "Type of Output": [
+      "Text"
+    ],
+    "Abstract": "",
+    "IsOld": true
+  },
+  {
+    "Title": "DevRec: Multi-Relationship Embedded Software Developer Recommendation",
+    "url": "N/A",
+    "Year": "2022",
+    "Venue": {
+      "isOld": true,
+      "value": "TSE"
+    },
+    "Authors": [
+      "Xie"
+    ],
+    "Type of Task": [
+      "Developer Recommendation"
+    ],
+    "Type": [
+      "AM"
+    ],
+    "Type of Output": [
+      "Visualization"
+    ],
+    "Abstract": "",
+    "IsOld": true
   }
 ]

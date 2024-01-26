@@ -52,13 +52,13 @@ def import_csv(csv_loc):
                 doi = url_parsed.path[1:]
 
             # Get abstract if we found a doi
-            if doi != "":
-                url = f"https://api.semanticscholar.org/graph/v1/paper/DOI:{doi}?fields=abstract"
-                with urlopen(url) as response:
-                    response_json = json.loads(response.read())
-                    if response_json["abstract"] is not None:
-                        abstract = response_json["abstract"]
-                time.sleep(3)
+            # if doi != "":
+            #     url = f"https://api.semanticscholar.org/graph/v1/paper/DOI:{doi}?fields=abstract"
+            #     with urlopen(url) as response:
+            #         response_json = json.loads(response.read())
+            #         if response_json["abstract"] is not None:
+            #             abstract = response_json["abstract"]
+            #     time.sleep(3)
             obj["Abstract"] = abstract
             obj["IsOld"] = True
             objs.append(obj)
