@@ -79,6 +79,22 @@ export enum Venue {
     NeurIPS = "NeurIPS",
     ICPC = "ICPC",
     ISSRE = "ISSRE",
+    OOPSLA ="OOPSLA",
+    ICSME = "ICSME",
+    ICSESEIP = "ICSE-SEIP",
+    ICSE = "ICSE",
+    POPL = "POPL",
+    TSE = "TSE",
+    IJCAI ="IJCAI",
+    ISSTA = "ISSTA",
+    SANER = "SANER",
+    ASEJ = "ASEJ",
+    EMSE = "EMSE",
+    JSS = "JSS",
+    MSR = "MSR",
+    IST ="IST",
+    COMPSAC = "COMPSAC",
+    ESEM = "ESEM",
     Other = "Other"
 }
 
