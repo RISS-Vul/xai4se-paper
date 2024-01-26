@@ -9,3 +9,56 @@ Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heu
 Incorporating Signal Awareness in Source Code Modeling: an Application to Vulnerability Detection,N/A,2023,TOSEM,Suneja,Vulnerability Detection,EE,Source Code
 XAI4FL: Enhancing Spectrum-Based Fault Localization with Explainable Artificial Intelligence,https://github.com/soarsmu/XAI4FL,2022,ICPC,Widyasari,Bug/Fault Localization,FA,Source Code
 Explainable AI for Android Malware Detection: Towards Understanding Why the Models Perform So Well?,N/A,2022,ISSRE,Liu,Malware/Anomaly Detection,"DK, FA",Numerical
+An Explanation Method for Models of Code,N/A,2023,OOPSLA,Wang,Code Understanding,EE,Source Code
+Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding,https://github.com/SmileResearch/GTCN,2023,TOSEM,Yang,Code Understanding,FA,Source Code
+Benchmarking Causal Study to Interpret Large Language Models for Source Code,https://github.com/WM-SEMERU/galeras-benchmark,2023,ICSME,Cardenas,Code Understanding,OT,Source Code
+Counterfactual Explanations for Models of Code,https://github.com/facebookresearch/mmd,2022,ICSE-SEIP,Cito,Code Understanding,EE,Source Code
+What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code,https://github.com/CGCL-codes/naturalcc,2022,ICSE,Wan,Code Understanding,AM,Visualization
+Explainable Program Synthesis by Localizing Specifications,https://doi.org/10.5281/zenodo.8331495,2023,OOPSLA,Nazari,Program Synthesis,IM,Rules
+DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning,https://github.com/ellisk42/ec,2021,POPL,Ellis,Program Synthesis,IM,Rules
+Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study,https://github.com/CCLink-demo,2023,TSE,Jiang,Code Summarization,"OT, FA",Visualization
+Interpretation-based Code Summarization,https://github.com/gmy2013/Icser,2023,ICPC,Geng,Code Summarization,AM,Source Code
+Mate! Are You Really Aware? An Explainability-Guided Testing Framework for Robustness of Malware Detectors,https://github.com/Immor278/AMM,2023,ESEC/FSE,Sun,Test Case-Related,FA,Numerical
+Risk-driven Online Testing and Test Case Diversity Analysis for ML-enabled Critical Systems,https://zenodo.org/records/8344723,2023,ISSRE,Adigun,Test Case-Related,FA,Numerical
+Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning,N/A,2022,ICSE,Yu,Test Case-Related,DK,Source Code
+Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models,https://github.com/Jirigesi/BGMD_MAPS,2023,ICSE,Gesi,Debugging,IM,Rules
+When Life Gives You Oranges: Detecting and Diagnosing Intermittent Job Failures at Mozilla,http://bit.ly/IntermittentJobs,2021,ESEC/FSE,Lampel,Debugging,FA,Numerical
+Learning to Locate and Describe Vulnerabilities,N/A,2023,ASE,Zhang,Vulnerability Detection,DK,Text
+Vulnerability Detection with Fine-Grained Interpretations,https://github.com/vulnerabilitydetection/VulnerabilityDetectionResearch,2021,ESEC/FSE,Li,Vulnerability Detection,FA,Source Code
+Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation,https://github.com/jacknichao/SVulD,2023,ESEC/FSE,Ni,Vulnerability Detection,DK,Text
+Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion,https://github.com/Messi-Q/AMEVulDetector,2021,IJCAI,Liu,Vulnerability Detection,AM,Visualization
+Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation,https://github.com/anonymous-dev904/aspect_generation,2023,ICSE,Sun,Vulnerability Detection,DK,Text
+VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types,https://github.com/awsm-research/VulExplainer,2023,TSE,Fu,Vulnerability Detection,AM,Text
+Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach,https://github.com/toolstemp/IAcontract,2022,ASE,Zhang,Vulnerability Detection,FA,Source Code
+Interpreters for GNN-Based Vulnerability Detection: AreWe There Yet?,https://github.com/CGCL-codes/vdgraph,2023,ISSTA,Hu,Vulnerability Detection,FA,Source Code
+CoLeFunDa: Explainable Silent Vulnerability Fix Identification,N/A,2023,ICSE,Zhou,Vulnerability Detection,DK,Text
+Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems,https://github.com/NetManAIOps/DejaVu,2022,ESEC/FSE,Li,Bug/Fault Localization,IM,Rules
+Why an Android App Is Classified as Malware: Toward Malware Classification Interpretation,https://github.com/wubozhi/Xmal,2021,TOSEM,Wu,Malware/Anomaly Detection,DK,Text
+Detecting Runtime Exceptions by Deep Code Representation Learning with Attention-Based Graph Neural Networks,https://drex-drex.github.io/,2022,SANER,Li,Malware/Anomaly Detection,AM,Visualization
+An Empirical Investigation of Practical Log Anomaly Detection for Online Service Systems,N/A,2021,ESEC/FSE,Zhao,Malware/Anomaly Detection,DK,Visualization
+Understanding machine learning software defect predictions,N/A,2020,ASEJ,Esteves,Bug/Defect Prediction,FA,Numerical
+Balancing the trade-off between accuracy and interpretability in software defect prediction,N/A,2019,EMSE,Mori,Bug/Defect Prediction,IM,Numerical
+Interpretability application of the Just-in-Time software defect prediction model,N/A,2022,JSS,Zheng,Bug/Defect Prediction,FA,Numerical
+PyExplainer: Explaining the Predictions of Just-In-Time Defect Models,https://github.com/awsm-research/PyExplainer,2021,ASE,Pornprasit,Bug/Defect Prediction,IM,Rules
+An Empirical Study of Model-Agnostic Techniques for Defect Prediction Models,N/A,2020,TSE,Jiarpakdee,Bug/Defect Prediction,FA,Numerical
+An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models ,N/A,2023,SANER,Lee,Bug/Defect Prediction,FA,Numerical
+Interpretable Software Defect Prediction Incorporating Multiple Rules,N/A,2023,SANER,Yang,Bug/Defect Prediction,IM,Rules
+Predicting Defective Lines Using a Model-Agnostic Technique,N/A,2020,TSE,Wattanakriengkrai,Bug/Defect Prediction,FA,Source Code
+SQAPlanner: Generating Data-Informed Software Quality Improvement Plans,https://github.com/awsm-research/SQAPlanner-implementation,2022,TSE,Rajapaksha,Bug/Defect Prediction,IM,Rules
+Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation,https://bit.ly/3H7R1aI,2023,ICSE,Mahbub,Bug/Defect Prediction,DK,Text
+Evaluating the Effectiveness of Local Explanation Methods on Source Code-based Defect Prediction Models,https://github.com/gyx1997/msr22-defects,2022,MSR,Gao,Bug/Defect Prediction,"FA,OT",Source Code
+Dealing with imbalanced data for interpretable defect prediction,N/A,2022,IST,Gao,Bug/Defect Prediction,IM,Rules
+How Early Participation Determines Long-Term Sustained Activity in GitHub Projects?,https://zenodo.org/record/8098994,2023,ESEC/FSE,Xiao,OSS Sustainability Prediction,FA,Numerical
+Real-Time Incident Prediction for Online Service Systems,N/A,2020,ESEC/FSE,Zhao,Incident Prediction,FA,Numerical
+"TraceDiag: Adaptive, Interpretable, and Efficient Root Cause Analysis on Large-Scale Microservice Systems",N/A,2023,ESEC/FSE,Ding,Root Cause Analysis,"IM,FA",Numerical
+STYLE-ANALYZER: fixing code style inconsistencies with interpretable unsupervised algorithms,https://github.com/src-d/lookout,2019,MSR,Markovtsev,Program Repair,IM,Rules
+EvaCRC: Evaluating Code Review Comments,https://zenodo.org/records/8297481,2023,ESEC/FSE,Yang,Code Review,DK,Text
+Detecting and Explaining Self-Admitted Technical Debts with Attention-based Neural Networks,N/A,2020,ASE,Wang,Code Smells,AM,Visualization
+Local and Global Feature Based Explainable Feature Envy Detection,N/A,2021,COMPSAC,Yin,Code Smells,OT,Numerical
+Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability,N/A,2019,TOSEM,Ren,Code Smells,FA,Text
+Automatic Identification of High Impact Bug Report by Test Smells of Textual  Similar Bug Reports,N/A,2021,QRS,Ding,Bug Report-Related,FA,Numerical
+Studying Re-opened Bugs in Open Source Software,N/A,2013,ESEM,Shihab,Bug Report-Related,IM,Rules
+Knowledge Graph based Explainable Question Retrieval for Programming Tasks,N/A,2023,ICSME,Liu,Mining Software Repositories,DK,Text
+Generalizable and Interpretable Learning for Configuration Extrapolation,https://github.com/y-ding/gil,2021,ESEC/FSE,Ding,Configuration Extrapolation,IM,Visualization
+GPT2SP: A Transformer-Based Agile Story Point Estimation Approach,https://github.com/awsm-research/gpt2sp,2023,TSE,Fu,Effort/Cost Estimation,FA,Text
+DevRec: Multi-Relationship Embedded Software Developer Recommendation,N/A,2022,TSE,Xie,Developer Recommendation,AM,Visualization
