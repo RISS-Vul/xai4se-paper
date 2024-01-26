@@ -29,14 +29,34 @@
         "type": "array",
         "items": {
           "type": "string",
-          "enum": ["Code Understanding","Program Synthesis","Code Summarization","Test Case-Related","Code Search","Debugging","Vulnerability Detection","Bug/Fault Localization","Malware/Anomaly Detection"]
+          "enum": ["Code Understanding",
+            "Program Synthesis",
+            "Code Summarization",
+            "Test Case-Related",
+            "Code Search",
+            "Debugging",
+            "Vulnerability Detection",
+            "Bug/Fault Localization",
+            "Malware/Anomaly Detection",
+            "Bug/Defect Prediction",
+            "OSS Sustainability Prediction",
+            "Incident Prediction",
+            "Root Cause Analysis",
+            "Program Repair",
+            "Code Review",
+            "Code Smells",
+            "Bug Report-Related",
+            "Mining Software Repositories",
+            "Configuration Extrapolation",
+            "Effort/Cost Estimation",
+            "Developer Recommendation"]
         }
       },
       "Type": {
         "type": "array",
         "items": {
           "type": "string",
-          "enum": ["EE","IM","AM","DK","FA"]
+          "enum": ["EE","IM","AM","DK","FA","OT"]
         }
       },
       "Type of Output": {
