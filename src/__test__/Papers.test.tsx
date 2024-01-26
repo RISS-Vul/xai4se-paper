@@ -47,8 +47,8 @@ describe("Test", () => {
 			//expect(btn).toHaveAttribute("aria-selected", "true")
 
 			// Check if tag added to list of tags
-			//const allTags = Array.from(document.querySelectorAll(".ant-select-selection-overflow-item > span > span")).map((elem) => elem.textContent)
-			//expect(allTags).toContain(element)
+			const allTags = Array.from(document.querySelectorAll(".ant-select-selection-overflow-item > span > span")).map((elem) => elem.textContent)
+			expect(allTags).toContain(element)
 
 			// Click on all paper rows
 			document.querySelectorAll("tr").forEach(row => {
@@ -60,8 +60,8 @@ describe("Test", () => {
 			// Check all expanded rows if the tags match the clicked tags
 			document.querySelectorAll(".ant-table-expanded-row").forEach(expandedRow => {
 				const paperTags = Array.from(expandedRow.querySelectorAll(".ant-tag")).map(tag => tag.innerHTML.includes(":") ? tag.innerHTML.split(": ")[1] : tag.innerHTML)
-				//const contained = allTags.every(tag => (tag !== null) ? paperTags.includes(tag) : false)
-				//expect(contained).toBeTruthy()
+				const contained = allTags.every(tag => (tag !== null) ? paperTags.includes(tag) : false)
+				expect(contained).toBeTruthy()
 			})
 		})
 	})
