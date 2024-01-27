@@ -1,7 +1,7 @@
 {
   "name": "xai4se-paper",
   "version": "0.1.0",
-  "homepage": "https://riss-vul.github.io/xai-papers/",
+  "homepage": "https://riss-vul.github.io/xai4se-paper/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
