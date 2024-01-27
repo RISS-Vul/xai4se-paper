@@ -115,7 +115,7 @@ function LandingPage() {
 		<>
 			<Row justify="center" style={{marginBottom: 50}}>
 				<Title style={{fontSize: 40, color: "dodgerblue"}}>
-					A Living and Curated Collection of eXplainable AI for Software Engineering (XAI4SE) Research
+					A Living and Curated Collection of XAI4SE Research
 				</Title>
 				<Text style={{fontSize: 20}}>
 					<b>
@@ -249,8 +249,10 @@ function LandingPage() {
 				{/*<pre>{citation}</pre>*/}
 			</Text>
 			<Row justify="center">
-				<img src={process.env.PUBLIC_URL + "/UT_Logo_Horizontal_Black.png"} height="80"/>
-				<img src={process.env.PUBLIC_URL + "/IKIM_Logo.png"} height="80"/>
+				<img src={process.env.PUBLIC_URL + "/YZU-logo.png"} height="80"/>
+				<img src={process.env.PUBLIC_URL + "/SMU-logo.png"} height="80"/>
+				<img src={process.env.PUBLIC_URL + "/unisq-logo.svg"} height="80"/>
+				<img src={process.env.PUBLIC_URL + "/WST-logo.png"} height="80"/>
 			</Row>
 		</>
 	)
