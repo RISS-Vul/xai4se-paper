@@ -5,7 +5,7 @@
 [![Check code cleanliness](https://github.com/riss-vul/xai4se-paper/actions/workflows/linter.yml/badge.svg)](https://github.com/riss-vul/xai4se-paper/actions/workflows/linter.yml)
 
 <p align="center">
-  <img src="public/Overview.png" width="700">
+  <img src="public/Overview.png" width="500">
 </p>
 
 ### Website: https://riss-vul.github.io/xai4se-paper/
