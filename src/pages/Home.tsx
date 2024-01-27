@@ -115,18 +115,18 @@ function LandingPage() {
 		<>
 			<Row justify="center" style={{marginBottom: 50}}>
 				<Title style={{fontSize: 40, color: "dodgerblue"}}>
-					A Living and Curated Collection of Explainable AI Methods
+					A Living and Curated Collection of eXplainable AI for Software Engineering (XAI4SE) Research
 				</Title>
 				<Text style={{fontSize: 20}}>
 					<b>
-					Interactively browse and contribute to a curated categorization of papers on explainable AI.
+					Interactively browse and contribute to a curated categorization of papers on XAI4SE.
 					</b>
 				</Text>
 				<Text style={{fontSize: 18}}>
 					The initial dataset was collected and labelled by 
 					<a href="http://dx.doi.org/10.1145/3583558" target="_blank" rel="noreferrer" >
-						&nbsp;Nauta et al. (2023)
-					</a> as part of a large-scale literature review on the evaluation of Explainable Artificial Intelligence. This website provides an interactive way to explore the dataset, and we invite the community to extend the XAI dataset in order to make this a living and curated collection of explainable AI methods. Contribute by adding papers following our categorization scheme, and reviewing suggestions from others.
+						&nbsp;Cao et al. (2024)
+					</a> as part of a large-scale literature review on the Explainability for Machine/Deep Learning-based SE research. This website provides an interactive way to explore the dataset, and we invite the community to extend the database in order to make this a living and curated collection of XAI4SE research. Contribute by adding papers following our categorization scheme, and reviewing suggestions from others.
 				</Text>
 			</Row>
 			<Row style={{marginBottom: 50}} justify="space-between">
@@ -135,7 +135,7 @@ function LandingPage() {
 					text="Browse and Explore" 
 					description={
 						<>
-						Quickly find relevant XAI papers by 
+						Quickly find relevant XAI4SE papers by 
 							<a onClick={() => customNavigate("papers")}>
 							&nbsp;filtering and searching&nbsp;
 							</a>
@@ -186,10 +186,9 @@ function LandingPage() {
 					<>
 					All papers in this collection are categorized along the scheme as presented by
 						<a href="http://dx.doi.org/10.1145/3583558" target="_blank" rel="noreferrer">
-						&nbsp;Nauta et al. (2023)
+						&nbsp;Cao et al. (2024)
 						</a> and shown in the image on the right. 
-					The initial collection contains categorization of papers on explainable AI published in 2014-2020 at conferences AAAI,
-					IJCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ACL, WWW, ICDM, KDD and SIGIR.
+					The initial collection contains categorization of papers on XAI4SE published in 2012-2023 at top-tier AI & SE conferences (ICSE, ASE, ESEC/FSE, ICSME, ICPC, RE, ESEM, ISSTA, MSR, SANER, ISSRE, COMPSAC, QRS, OOPSLA, PLDI, AAAI, ICML, ICLR, NeurIPS, and IJCAI) and journals (TSE, TOSEM, EMSE, JSS, IST, and ASEJ).
 					</>
 				}
 				imageUrl="/categories_xai.png"
@@ -230,12 +229,8 @@ function LandingPage() {
 
 				<Text>
 					<br/>
-					We thank <a href="https://www.linkedin.com/in/abdullah-aziz-qazi/" target="_blank" rel="noreferrer">Abdullah Qazi</a>, 
-					<a href="https://www.linkedin.com/in/boris-gerretzen/" target="_blank" rel="noreferrer"> Boris Gerretzen</a>, 
-					<a href="https://www.linkedin.com/in/frans-schooltink/" target="_blank" rel="noreferrer"> Frans Schooltink</a>, 
-					<a href="https://www.linkedin.com/in/gies-den-broeder/" target="_blank" rel="noreferrer"> Gies den Broeder </a>and 
-					<a href="https://www.linkedin.com/in/ramish-bhutto-06275b237/" target="_blank" rel="noreferrer"> Ramish Bhutto </a> 
-					for helping us with the development of this website. 
+					We thank <a href="https://dl.acm.org/doi/10.1145/3583558" target="_blank" rel="noreferrer">Nauta et al.</a>
+					for developing this interactive website. 
 					<br/>
 					<br/>
 				</Text>
@@ -244,13 +239,10 @@ function LandingPage() {
 				Paper and Citation
 			</Title>
 			<Text>
-				This website is based on the data collected by Meike Nauta, Jan Trienes, Shreyasi Pathak, Elisa Nguyen, Michelle Peters, Yasmin Schmitt, Jörg Schlötterer, Maurice van Keulen, Christin Seifert as described in
+				This website is based on the data collected by <a href="https://sicongcao.github.io/" target="_blank" rel="noreferrer">Cao et al.</a> as described in
 				<a href="http://dx.doi.org/10.1145/3583558" target="_blank" rel="noreferrer">
-						&ensp;&quot;From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI&quot;
+						&ensp;&quot;A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research&quot;
 				</a>
-				<small>
-					&ensp;(ACM Computing Surveys, 2023)
-				</small>
 				<br/>
 				<br/>
 					If you found this resource helpful, please cite our work:
