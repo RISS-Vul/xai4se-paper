@@ -9,8 +9,13 @@
 </p>
 
 ### Website: https://riss-vul.github.io/xai4se-paper/
+
 ### Paper: 
-This is an exploration and visualisation website for a categorization of XAI4SE papers, hosted on GitHub pages. This website provides an interactive way to [explore the dataset](https://riss-vul.github.io/xai4se-paper/#/papers), and we invite the community to contribute relevant primary studies in order to make this a living and curated collection of XAI4SE research. 
+
+### Introduction: 
+This is an exploration and visualisation website for a categorization of XAI4SE papers, hosted on GitHub pages. This website provides an interactive way to [explore the dataset](https://riss-vul.github.io/xai4se-paper/#/papers), and we invite the community to contribute relevant primary studies in order to make this a living and curated collection of XAI4SE research.
+
+The detailed statistics can be found in [our excel table](https://github.com/riss-vul/xai4se-paper/XAI4SE-Data.xlsx).
 
 If you want to add an XAI4SE paper to the database, follow the instructions below.
 
