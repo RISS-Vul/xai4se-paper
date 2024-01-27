@@ -33,7 +33,7 @@ To review a pull request, follow these steps:
 
 
 ## Acknowledgement
-We thank [Nauta, et al.](https://dl.acm.org/doi/10.1145/3583558) for their open-sourced interactive [platform's](https://utwente-dmb.github.io/xai-papers/#/) inspiration to us.
+We thank [Nauta, et al.](https://dl.acm.org/doi/10.1145/3583558) for their open-sourced interactive [platform's](https://github.com/utwente-dmb/xai-papers) inspiration to us.
 
 This repository is based on our paper, ["A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research"](https://aclanthology.org/2021.findings-acl.84/). You can cite it as follows:
 ```
