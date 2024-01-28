@@ -194,7 +194,7 @@ function LandingPage() {
 					The initial collection contains categorization of papers on XAI4SE published in 2012-2023 at top-tier AI & SE conferences (ICSE, ASE, ESEC/FSE, ICSME, ICPC, RE, ESEM, ISSTA, MSR, SANER, ISSRE, COMPSAC, QRS, OOPSLA, PLDI, AAAI, ICML, ICLR, NeurIPS, and IJCAI) and journals (TSE, TOSEM, EMSE, JSS, IST, and ASEJ).
 					</>
 				}
-				imageUrl="/categories_xai.png"
+				imageUrl="/type.svg"
 			/>
 			<TextWithImage 
 				textAlignment="right"
