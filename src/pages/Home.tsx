@@ -249,7 +249,7 @@ function LandingPage() {
 				<br/>
 				<br/>
 					If you found this resource helpful, please cite our work:
-				{/*<pre>{citation}</pre>*/}
+				<pre>{citation}</pre>
 			</Text>
 			<Row justify="center">
 				<img src={process.env.PUBLIC_URL + "/YZU-logo.png"} height="80"/>
