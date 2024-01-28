@@ -7,19 +7,22 @@ import { useNavigate } from "react-router-dom"
 
 const { Title, Text } = Typography
 
-// const citation = `@article{Nauta2023_csur_evaluating-xai-survey,
-// author = {Nauta, Meike and Trienes, Jan and Pathak, Shreyasi and Nguyen, Elisa and Peters, Michelle and Schmitt, Yasmin and Schlötterer, Jörg and van Keulen, Maurice and Seifert, Christin},
-// title = {From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI},
-// year = {2023},
-// month = {feb},
-// publisher = {Association for Computing Machinery},
-// address = {New York, NY, USA},
-// issn = {0360-0300},
-// url = {https://doi.org/10.1145/3583558},
-// doi = {10.1145/3583558},
-// journal = {ACM Comput. Surv.},
-// comment   = {https://utwente-dmb.github.io/xai-papers/},
-// } `
+const citation = `@article{XAI4SE-paper,
+author  = {Sicong Cao and
+           Xiaobing Sun and
+           Ratnadira Widyasari and
+           David Lo and
+           Xiaoxue Wu and
+           Lili Bo and 
+           Jiale Zhang and
+           Bin Li and
+           Wei Liu and
+           Di Wu and
+           Yixin Chen},
+title    = {A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research},
+journal  = {arXiv preprint arXiv: 2309.11960},
+year     = {2024}
+} `
 
 type TextIconProps = {
 	Icon: (props: any) => JSX.Element | null
