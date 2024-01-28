@@ -232,7 +232,7 @@ function LandingPage() {
 
 				<Text>
 					<br/>
-					We thank <a href="https://dl.acm.org/doi/10.1145/3583558" target="_blank" rel="noreferrer">Nauta et al.</a>
+					We thank <a href="https://dl.acm.org/doi/10.1145/3583558" target="_blank" rel="noreferrer">Nauta et al. </a>
 					for developing this interactive website. 
 					<br/>
 					<br/>
