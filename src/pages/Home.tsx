@@ -250,9 +250,9 @@ function LandingPage() {
 			</Text>
 			<Row justify="center">
 				<img src={process.env.PUBLIC_URL + "/YZU-logo.png"} height="80"/>
-				<img src={process.env.PUBLIC_URL + "/SMU-logo.png"} height="80"/>
+				<img src={process.env.PUBLIC_URL + "/SMU-logo.png"} height="110"/>
 				<img src={process.env.PUBLIC_URL + "/unisq-logo.svg"} height="80"/>
-				<img src={process.env.PUBLIC_URL + "/WST-logo.png"} height="80"/>
+				<img src={process.env.PUBLIC_URL + "/WST-logo.png"} height="90"/>
 			</Row>
 		</>
 	)
