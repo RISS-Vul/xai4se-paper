@@ -101,7 +101,7 @@ function DefaultLayout() {
 				</Menu>
 					
 				{showExplainableAIText 
-					? <Text style={{ left: 15, color: "dodgerblue", position: "absolute", bottom: 15}}>Overview of Methods on Explainable AI</Text> 
+					? <Text style={{ left: 15, color: "dodgerblue", position: "absolute", bottom: 15}}>Overview of Approaches on XAI4SE</Text> 
 					: null}
 
 			</Sider>
