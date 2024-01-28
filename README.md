@@ -1,6 +1,5 @@
 # Collection of eXplainable AI for Software Engineering (XAI4SE) Research
 ![Database validation](https://github.com/riss-vul/xai4se-paper/actions/workflows/main.yml/badge.svg)
-![Test](https://github.com/riss-vul/xai4se-paper/actions/workflows/test.yml/badge.svg)
 ![Database validation](https://github.com/riss-vul/xai4se-paper/actions/workflows/deploy.yml/badge.svg)
 [![Check code cleanliness](https://github.com/riss-vul/xai4se-paper/actions/workflows/linter.yml/badge.svg)](https://github.com/riss-vul/xai4se-paper/actions/workflows/linter.yml)
 
