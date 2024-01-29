@@ -9,7 +9,7 @@
 
 ### Website: https://riss-vul.github.io/xai4se-paper/
 
-### Paper: 
+### Paper: https://arxiv.org/abs/2401.14617
 
 ### Introduction: 
 This is an exploration and visualisation website for a categorization of XAI4SE papers, hosted on GitHub pages. This website provides an interactive way to [explore the dataset](https://riss-vul.github.io/xai4se-paper/#/papers), and we invite the community to contribute relevant primary studies in order to make this a living and curated collection of XAI4SE research.
@@ -52,7 +52,7 @@ This repository is based on our paper, ["A Systematic Literature Review on Expla
                   Di Wu and
                   Yixin Chen},
   title        = {A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research},
-  journal      = {arXiv preprint arXiv: 2309.11960},
+  journal      = {arXiv preprint arXiv: 2401.14617},
   year         = {2024}
 }
 ```
