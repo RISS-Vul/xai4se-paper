@@ -20,7 +20,7 @@ author  = {Sicong Cao and
            Di Wu and
            Yixin Chen},
 title    = {A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research},
-journal  = {arXiv preprint arXiv: 2309.11960},
+journal  = {arXiv preprint arXiv: 2401.14617},
 year     = {2024}
 } `
 
@@ -127,7 +127,7 @@ function LandingPage() {
 				</Text>
 				<Text style={{fontSize: 18}}>
 					The initial dataset was collected and labelled by 
-					<a href="http://dx.doi.org/10.1145/3583558" target="_blank" rel="noreferrer" >
+					<a href="https://arxiv.org/abs/2401.14617" target="_blank" rel="noreferrer" >
 						&nbsp;Cao et al. (2024)
 					</a> as part of a large-scale literature review on the Explainability for Machine/Deep Learning-based SE research. This website provides an interactive way to explore the dataset, and we invite the community to extend the database in order to make this a living and curated collection of XAI4SE research. Contribute by adding papers following our categorization scheme, and reviewing suggestions from others.
 				</Text>
@@ -243,7 +243,7 @@ function LandingPage() {
 			</Title>
 			<Text>
 				This website is based on the data collected by <a href="https://sicongcao.github.io/" target="_blank" rel="noreferrer">Cao et al.</a> as described in
-				<a href="http://dx.doi.org/10.1145/3583558" target="_blank" rel="noreferrer">
+				<a href="https://arxiv.org/abs/2401.14617" target="_blank" rel="noreferrer">
 						&ensp;&quot;A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research&quot;
 				</a>
 				<br/>
