@@ -188,7 +188,7 @@ function LandingPage() {
 				description={
 					<>
 					All papers in this collection are categorized along the scheme as presented by
-						<a href="http://dx.doi.org/10.1145/3583558" target="_blank" rel="noreferrer">
+						<a href="https://arxiv.org/abs/2401.14617" target="_blank" rel="noreferrer">
 						&nbsp;Cao et al. (2024)
 						</a> and shown in the image on the right. 
 					The initial collection contains categorization of papers on XAI4SE published in 2012-2023 at top-tier AI & SE conferences (ICSE, ASE, ESEC/FSE, ICSME, ICPC, RE, ESEM, ISSTA, MSR, SANER, ISSRE, COMPSAC, QRS, OOPSLA, PLDI, AAAI, ICML, ICLR, NeurIPS, and IJCAI) and journals (TSE, TOSEM, EMSE, JSS, IST, and ASEJ).
