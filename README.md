@@ -37,7 +37,7 @@ To review a pull request, follow these steps:
 ## Acknowledgement
 We thank [Nauta et al.](https://dl.acm.org/doi/10.1145/3583558) for their developed interactive [platform's](https://github.com/utwente-dmb/xai-papers) inspiration to us.
 
-This repository is based on our paper, ["A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research"](https://aclanthology.org/2021.findings-acl.84/). You can cite it as follows:
+This repository is based on our paper, ["A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research"](https://arxiv.org/abs/2401.14617). You can cite it as follows:
 ```
 @article{XAI4SE-paper,
   author       = {Sicong Cao and
