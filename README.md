@@ -51,7 +51,7 @@ This repository is based on our paper, ["A Systematic Literature Review on Expla
                   Wei Liu and
                   Di Wu and
                   Yixin Chen},
-  title        = {A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research},
+  title        = {A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering},
   journal      = {{ACM} Comput. Surv.},
   year         = {2025}
 }
